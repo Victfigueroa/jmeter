@@ -25,7 +25,7 @@ Simula una API REST que devuelve usuarios como si fueran clientes de una inmobil
 
 ```bash
 jmeter.bat -n -t jmeter-plan/prueba-usuarios.jmx -l resultados/resultados.jtl -e -o resultados/html-report
-
+```
 ---
 
 ## Resultados
