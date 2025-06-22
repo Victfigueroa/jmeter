@@ -21,27 +21,6 @@ Simula una API REST que devuelve usuarios como si fueran clientes de una inmobil
 
 ---
 
-## Estructura del proyecto
-
-jmeter/
-├── jmeter-plan/
-│ └── prueba-usuarios.jmx
-├── resultados/
-│ ├── resultados.jtl
-│ └── html-report/
-│ └── index.html
-├── aggregate.csv
-├── summary.csv
-├── Prints/
-│ ├── Aggregate Report.jpg
-│ ├── Graph Results.jpg
-│ ├── Summary Report.jpg
-│ └── View Results in Table.jpg
-└── README.md
-
-
----
-
 ## Ejecución desde consola
 
 ```bash
@@ -56,6 +35,14 @@ Los resultados se exportaron en:
 - `summary.csv` (resumen)
 - `aggregate.csv` (promedios agregados)
 - Reporte HTML: [`resultados/html-report/index.html`](resultados/html-report/index.html)
+
+---
+
+## Reporte de Pruebas de Rendimiento
+
+Puedes visualizar el reporte completo de las pruebas de rendimiento en línea en:
+
+➡️ [Reporte HTML en GitHub Pages](https://victfigueroa.github.io/jmeter/docs/)
 
 ---
 
