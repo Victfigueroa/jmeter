@@ -48,6 +48,13 @@ Puedes visualizar el reporte completo de las pruebas de rendimiento en línea en
 
 ## Capturas de listeners
 
+** Configuracion Jmeter
+![Conf Prueba Jmeter](https://github.com/user-attachments/assets/a066b074-df33-49ac-a4d2-2a0a3dad1264)
+
+** Peticion HTTP
+![Peticion HTTP](https://github.com/user-attachments/assets/86caa44e-27af-48d0-be3f-d9eb06a42e0b)
+
+
 1. **View Results in Table**  
    ![View Results in Table](https://github.com/Victfigueroa/jmeter/blob/main/Prints/View%20Results%20in%20Table.jpg)
 
@@ -61,6 +68,10 @@ Puedes visualizar el reporte completo de las pruebas de rendimiento en línea en
    ![Aggregate Report](https://github.com/Victfigueroa/jmeter/blob/main/Prints/Aggregate%20Report.jpg)
 
 ---
+## Interpretaciones:
+
+* Las metricas varían segun las veces que se ejecuten las prueba ya que se van sumando las pruebas
+* Se puede concluir que el endpoint puede manejar las 250 solicitudes de forma fluida y estable, eso nos indica que la api es confiable para un posible paso a productivo.
 
 ## Grupo 5
 
