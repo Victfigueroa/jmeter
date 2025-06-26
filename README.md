@@ -72,7 +72,7 @@ Puedes visualizar el reporte completo de las pruebas de rendimiento en línea en
 
 * Las metricas varían segun las veces que se ejecuten las prueba ya que se van sumando las pruebas
 * Se puede concluir que el endpoint puede manejar las 250 solicitudes de forma fluida y estable, eso nos indica que la api es confiable para un posible paso a productivo.
-
+* se realizaron las pruebas correspondientes una cantidad de veces definida (alrededor de 3 a 5 veces) sin realizar una acumulación de solicitudes y se llego a la conclusión de la mantención de estabilidad final en graficos y tablas con resultados exactamente similares o que fluctuan un minimo al resultado inicial.
 ## Grupo 5
 
 - Juan Villaman  
